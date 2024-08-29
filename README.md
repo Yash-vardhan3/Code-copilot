@@ -7,7 +7,6 @@ Welcome to the **Copilot** project! This application is designed to assist devel
 ## Features
 
 - **Interactive Chat Interface**: Engage in a natural conversation with the Copilot for coding suggestions and assistance.
-- **Voice Input/Output**: Provide commands and receive responses through voice for hands-free interaction.
 - **Code Analysis**: Analyze the previous and next 5 lines of code to provide context-aware suggestions.
 - **Multi-Language Support**: Works with multiple programming languages to offer relevant code snippets.
 - **Advanced Text Analysis**: Understands complex code structures to offer the most relevant advice.
